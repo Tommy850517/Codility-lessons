@@ -3,7 +3,7 @@ php practice
 | lesson | score link |
 | ------ | :--------: |
 | 1-1 | [100%](<https://app.codility.com/demo/results/trainingVPNG8N-28F/>) |
-| 2-1 | [100%](<https://app.codility.com/demo/results/trainingVPNG8N-28F/>) |
+| 2-1 | [100%](<https://app.codility.com/demo/results/trainingAYNS4U-8XX/>) |
 | 2-2 | [100%](<https://app.codility.com/demo/results/trainingD6SEWU-M7Z/>) |
 | 3-1 | [100%](<https://app.codility.com/demo/results/trainingG7SRKC-Y5P/>) |
 | 3-2 | [100%](<https://app.codility.com/demo/results/trainingBUQKB2-545/>) |
