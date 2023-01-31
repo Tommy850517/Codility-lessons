@@ -1,5 +1,5 @@
 function solution($N) {
-     Implement your solution here
+    //Implement your solution here
     $binary = ;
     while($N){
         if($N == 1){
