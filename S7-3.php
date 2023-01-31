@@ -1,5 +1,3 @@
-result = https://app.codility.com/demo/results/trainingHQ93WS-S7Y/
-
 function solution($S) {
     // Implement your solution here
     $size = strlen($S);

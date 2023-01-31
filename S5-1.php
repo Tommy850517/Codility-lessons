@@ -1,5 +1,3 @@
-result = https://app.codility.com/demo/results/training75TDP6-DAA/
-
 // 1
 function solution($A) {
     // Implement your solution here
@@ -58,5 +56,3 @@ function solution($A) {
     }
     return $ans;
 }
-
-

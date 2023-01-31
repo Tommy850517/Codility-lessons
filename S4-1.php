@@ -1,5 +1,3 @@
-result = https://app.codility.com/demo/results/training8RMQ6R-8Q7/
-
 function solution($X, $A) {
     // Implement your solution here
     $appear = array();

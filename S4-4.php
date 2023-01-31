@@ -1,5 +1,3 @@
-result = https://app.codility.com/demo/results/trainingX8NG7U-4WK/
-
 function solution($A) {
     // Implement your solution here
     if(max($A)<=0) return 1;

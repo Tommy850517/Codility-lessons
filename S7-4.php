@@ -1,5 +1,3 @@
-result = https://app.codility.com/demo/results/trainingHCFTHW-R7C/
-
 function solution($H) {
     // Implement your solution here
     $size = count($H);

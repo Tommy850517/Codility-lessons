@@ -1,5 +1,3 @@
-result = https://app.codility.com/demo/results/trainingQSUYK5-ECB/
-
 function solution($A) {
     // Implement your solution here
     sort($A);

@@ -1,5 +1,3 @@
-result = https://app.codility.com/demo/results/trainingG3PR8W-RRF/
-
 function solution($S) {
     $stack = array();
     $size = strlen($S);

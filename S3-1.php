@@ -1,5 +1,3 @@
-result = https://app.codility.com/demo/results/trainingG7SRKC-Y5P/
-
 function solution($X, $Y, $D) {
     if($X==$Y) return 0;
     $count = 0;

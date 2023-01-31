@@ -1,5 +1,3 @@
-result = https://app.codility.com/demo/results/trainingD6SEWU-M7Z/
-
 function solution($A) {
     // Implement your solution here
     $count = array_count_values($A);

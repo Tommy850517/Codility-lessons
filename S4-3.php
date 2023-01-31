@@ -1,5 +1,3 @@
-result = https://app.codility.com/demo/results/trainingPTS5DB-HX2/
-
 function solution($N, $A) {
     // Implement your solution here
     $result = array();
@@ -16,6 +14,7 @@ function solution($N, $A) {
     }
     return $result;
 }
+
 
 function max_counter($tmp){
     $max = max($tmp);

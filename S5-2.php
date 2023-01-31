@@ -1,4 +1,3 @@
-result = https://app.codility.com/demo/results/trainingEC52TK-HQQ/
 
 function solution($A, $B, $K) {
     // Implement your solution here

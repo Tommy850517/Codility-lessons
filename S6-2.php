@@ -1,5 +1,3 @@
-result = https://app.codility.com/demo/results/trainingY4RXHM-4R8/
-
 function solution($A) {
     $size = count($A);
     if($size == 3) return $A[0]*$A[1]*$A[2];
